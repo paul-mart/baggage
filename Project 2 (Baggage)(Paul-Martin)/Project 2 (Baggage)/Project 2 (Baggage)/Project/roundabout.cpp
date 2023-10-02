@@ -1,6 +1,4 @@
-/*
- * Name: Paul Martin
- * Roundabout Member Function Definitions
+/*Roundabout Member Function Definitions
  * Date: 5/7/2023
  * Description: Roundabout member function definitions.
  *				Circular singly-linked list implementation, keeping track
@@ -186,7 +184,6 @@ void Roundabout<T>::rotate(bool forward)
 template<class T>
 void Roundabout<T>::clear()
 {
-	// BONUS: FILL IN FUNCTION.
 	
 
 	while (numElements != 0) //while there is still elements
