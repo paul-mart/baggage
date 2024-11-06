@@ -1,7 +1,7 @@
 ﻿/*
  * Name: Paul Martin
- * Project 2: Baggage
- * Date: 5/7/2023
+ * Baggage Project
+ * Date: 11/5/2024
  * Description: Remove baggage from an airplane and move it to a carousel
  *				at which passengers (customers) may retrieve their baggage.
  *				There is only 1 piece of baggage per passenger.  A ticket #
